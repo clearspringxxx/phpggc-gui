@@ -1,0 +1,9 @@
+# 运行时自动生成的数据 / runtime-generated data
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# 本地打包产物 / local bundles
+*.zip
